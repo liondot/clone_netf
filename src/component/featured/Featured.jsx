@@ -26,9 +26,9 @@ function Featured({type}) {
                 </select>
             </div>
         )}
-      <img src="https://springtribune.com/wp-content/uploads/2021/11/ginny-georgia-season-2.jpg" alt="" />
+      <img src="https://springtribune.com/wp-content/uploads/2021/11/ginny-georgia-season-2.jpg" alt="movie" className='movie_bg' />
       <div className="info">
-        <img src="https://www.pngarts.com/files/1/Netflix-Logo-Free-PNG-Image.png" alt="" />
+        <img src="https://www.pngarts.com/files/1/Netflix-Logo-Free-PNG-Image.png" alt="logo"  />
         <span className="desc">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Modi quisquam veniam cum sed porro vel sit deleniti quas delectus iure eum repellendus, quo dolor ratione consequatur sequi ad nam dignissimos.
         </span>
