@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clone_netf/static/css/main.cbecd41a.css",
+    "main.js": "/clone_netf/static/js/main.963e96a6.js",
+    "index.html": "/clone_netf/index.html",
+    "main.cbecd41a.css.map": "/clone_netf/static/css/main.cbecd41a.css.map",
+    "main.963e96a6.js.map": "/clone_netf/static/js/main.963e96a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbecd41a.css",
+    "static/js/main.963e96a6.js"
+  ]
+}
